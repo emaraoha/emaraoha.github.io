@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emaraoha.github.io/sitemap_index.emaraoha
